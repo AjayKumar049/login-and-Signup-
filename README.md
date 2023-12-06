@@ -1,3 +1,26 @@
+#While creating a login and Signup using <b>ReactJs</b> with <b>Bootstrap</b>, installed 
+<b>Bootstrap</b> using npm commands <b>npm install Bootsrap</b>.
+
+#Output
+
+
+
+![login](https://github.com/AjayKumar049/login-and-Signup-/assets/92783730/dab8ca18-aa4f-46fa-9a84-011dff84c8b3)
+
+
+
+
+![sigin](https://github.com/AjayKumar049/login-and-Signup-/assets/92783730/c055a0c6-b994-47a7-b3b8-2ffa23a2841c)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
